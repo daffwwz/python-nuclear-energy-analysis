@@ -19,5 +19,7 @@ Nuclear energy is one of the most reliable and cleanest source of energy that pl
 | `Nuclear Generating Units, Capacity Factor` | The capacity factor (actual output vs potential output) of nuclear generating units. | Float |
 
 ## Findings
+### Net Summer Capacity of Nuclear Energy
+This timeseries data explain the maximum output of nuclear generating units during peak summer conditions. 
 ![alt text](images/net_summer_capacity.png)
 
