@@ -43,5 +43,8 @@ This timeseries data explain the maximum output of nuclear generating units duri
 ### Nuclear Share of Electricity and Nuclear Capacity Factor
 ![alt text](images/nuclear_share_n_capacity_factor.png)
 
+### Seasonality Impact on Nuclear Electricity and Capacity Factor
+![alt text](images/nuclear_electricity_net_generation_seasonal.png)
+![alt text](images/nuclear_capacity_factor_seasonal.png)
 ## References
 [[1](https://www.oecd.org/en/publications/forty-years-of-uranium-resources-production-and-demand-in-perspective_9789264028074-en.html)] OECD Nuclear Energy Agency (NEA) & International Atomic Energy Agency (IAEA). Forty Years of Uranium Resources, Production and Demand in Perspective: The Red Book Retrospective. OECD Publishing, 2006.
