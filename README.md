@@ -31,6 +31,8 @@ Nuclear energy is one of the most reliable and cleanest source of energy that pl
 | 75%     |                                         99.628  |                              65169.2 |                                      20.1     |                                     91.875  |
 | max     |                                        102.206  |                              74649   |                                      22.9     |                                    101.6    |
 
+### 
+
 ### Net Summer Capacity of Nuclear Energy
 This timeseries data explain the maximum output of nuclear generating units during peak summer conditions. This data basically tells us **how much reliable generation** we can count on during **peak demand periods** (usually in summer). The line plot shows an overall increase in the net capacity of nuclear power, primarily during **the Major Expansion Era (1973–1990)** (highlighted in green), when the number of operating plants rose from 109 to 413. In the subsequent period from 1990 to 2003, there were **59 new plants commissioned and 50 plants shut down**, indicating a **slowdown in growth** caused by **the Three Mile Island (1979)** and **the Chernobyl Accident (1986)**. The most recent five-year data also shows a **decline in net capacity**, reflected by a **total annual growth rate of –3.74%** [[1](https://www.oecd.org/en/publications/forty-years-of-uranium-resources-production-and-demand-in-perspective_9789264028074-en.html)].
 ![alt text](images/net_summer_capacity_annotated.png)
@@ -38,7 +40,7 @@ This timeseries data explain the maximum output of nuclear generating units duri
 ### Nuclear Electricity Net Generation
 ![alt text](images/nuclear_electricity_net_generation.png)
 ### Nuclear Share of Electricity and Nuclear Capacity Factor
-![alt text](images/nuclear.png)
+![alt text](images/nuclear_share_n_capacity_factor.png)
 
 ## References
 [[1](https://www.oecd.org/en/publications/forty-years-of-uranium-resources-production-and-demand-in-perspective_9789264028074-en.html)] OECD Nuclear Energy Agency (NEA) & International Atomic Energy Agency (IAEA). Forty Years of Uranium Resources, Production and Demand in Perspective: The Red Book Retrospective. OECD Publishing, 2006.
