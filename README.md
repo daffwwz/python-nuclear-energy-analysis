@@ -19,7 +19,7 @@ Nuclear energy is one of the most reliable and cleanest source of energy that pl
 | `Nuclear Generating Units, Capacity Factor` | The capacity factor (actual output vs potential output) of nuclear generating units. | Float |
 
 ## Data Cleaning
-Deleted the `Nuclear Generating Units, Total Operable Units` column because of too many missing data `Not Available`.
+Removed the `Nuclear Generating Units, Total Operable Units` column because of too many missing data `Not Available`.
 
 ## Findings
 ### Data Statistics Summary
