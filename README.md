@@ -43,7 +43,7 @@ This timeseries data explain the maximum output of nuclear generating units duri
 ### Nuclear Share of Electricity and Nuclear Capacity Factor
 ![alt text](images/nuclear_share_n_capacity_factor.png)
 
-### Seasonality Impact on Nuclear Electricity and Capacity Factor
+### Seasonality Impact on Nuclear Electricity Net Generation and Capacity Factor
 ![alt text](images/nuclear_electricity_net_generation_seasonal.png)
 ![alt text](images/nuclear_capacity_factor_seasonal.png)
 ## References
