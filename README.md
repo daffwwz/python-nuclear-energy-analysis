@@ -6,4 +6,4 @@ Nuclear energy is one of the most reliable and cleanest source of energy that pl
 **1. Python:** Pandas, Matplotlib, Seaborn, Data Wrangler Extension for VS Code
 
 ## Dataset Source
-**Kaggle**:	[Nuclear Energy Datasets]([https://www.example.com](https://www.kaggle.com/datasets/alistairking/nuclear-energy-datasets))
+**Kaggle**:	[Nuclear Energy Datasets](https://www.kaggle.com/datasets/alistairking/nuclear-energy-datasets)
