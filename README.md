@@ -26,8 +26,8 @@ Removed the `Nuclear Generating Units, Total Operable Units` column because of t
 ## Forecasting Method
 1. The method used for the time series forecasting is by using `XGBoost` model to predict the `Nuclear Electricity Net Generation` as the target value. The feature added for the forecasting are `lag_7`, `rolling_mean_1`, `rolling_std_1`, `rolling_mean_7`, `rolling_std_7`, `rolling_mean_30`, `rolling_std_30`, `Month`, `Year`, `Quarter`, `DayOfWeek`, and `DayOfYear`. 
 2. The target value is also scaled using `StandardScaler` from `Sci-kit Learn` module before training.
-3. The dataframe is splitted using `TimeSeriesSplit` as a cross validation method.
-4. The Hyperparameter tuning uses `GridSearchCV` method and found the best parameter for the model: {'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 2000}.
+3. The dataframe is splitted using `TimeSeriesSplit` as the cross validation method.
+4. The Hyperparameter tuning uses `GridSearchCV` method and found the best parameter for the model: `{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 2000}`.
 
 ## Findings
 ### Data Statistics Summary
